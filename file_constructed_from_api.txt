@@ -1,0 +1,6 @@
+https://overpass-api.de/api/map?bbox=-85.1447,34.2410,-84.6119,34.7729
+
+Gordon County, Georgia, US - https://www.openstreetmap.org/relation/1020717
+
+I chose this area because it is where I have lived for the last 14 years.
+I wanted to find out some of the statistics on it.
