@@ -1,19 +1,19 @@
-# WGU_openstreetmap
+Ready to submit your project? Collect the following files:  
 
-## Files:
-* Submission_Document.html - the submission document, in html format, and cleaned a bit from the jupyer notebook's presentation
-* openstreetmap.ipynb - the jupyter notebook used to create the submission document
-* open_street_main.py - the main file python file that called all the imports, called the functions, and made the csv files
-* processing_funcs.py - the python file that held all the functions
-* gordon_county.xml - the OSM XML file I used for this project
-* *.csv - all the csv files created using the python files to extract the data from the .xml file
-* schema.sql - the adapted schema I used (the original was provided by Udacity). I had to change it as a lof of the column names were SQL reserved names.
-* database_dump.sql - the dump of the DB I created for the project
-
-***
-
-## Important:
-The bulk of the python work was done in the two .py files. The jupyter notebook was only used to help present the data.
-
-## Added info:
-The sample creation python script Udacity wanted me to use did not work, so I am not including it.
+    A pdf document containing your answers to the rubric questions. This file should document your data wrangling process. 
+## I made an html page, as this was allowed in every other assignment - wrangle_report.html
+    
+    
+    Your Python code you used in auditing and cleaning your dataset for the final project. You may also include the original Case Study scripts, but make sure it is clear which code was used for the project, and which applies to the lesson quizzes. We recommend including a Readme file to describe the contents of each file you include in your submission.  
+## open_street_main.py & processing_funcs.py
+    
+    
+    A text file containing a link to the map position you wrangled in your project, a short description of the area and a reason for your choice.  
+## file_constructed_from_api.txt
+    
+    
+    An .osm file containing a sample part of the map region you used (around 1 - 10 MB in size). See the notes below.
+## This one is not possible, as your example code to do this does not work. Seems to be based on unsupported python version
+    
+    A text file containing a list of Web sites, books, forums, blog posts, github repositories etc that you referred to or used in this submission (Add N/A if you did not use such resources)  
+## references.txt
