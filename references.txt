@@ -1,0 +1,11 @@
+# Find database size
+# reference: https://stackoverflow.com/questions/1733507/how-to-get-size-of-mysql-database
+
+# Find total unique users
+# reference: https://dba.stackexchange.com/questions/87412/count-multiple-tables-as-one-count
+
+# Schema that mine was adapted from
+# https://gist.github.com/swwelch/f1144229848b407e0a5d13fcb7fbbd6f
+
+# Regex used for problem characters
+# https://classroom.udacity.com/nanodegrees/nd002-wgu/parts/fa83382c-7342-40a3-aa96-d66f213215d4/modules/5760d578-d3e3-4951-b75d-744b4e6fe923/lessons/3deb3102-0ba1-4684-b4b1-3af4b2e8c533/concepts/54908788190923
