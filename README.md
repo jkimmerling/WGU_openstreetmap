@@ -14,3 +14,6 @@
 
 ## Important:
 The bulk of the python work was done in the two .py files. The jupyter notebook was only used to help present the data.
+
+## Added info:
+The sample creation python script Udacity wanted me to use did not work, so I am not including it.
