@@ -1,7 +1,7 @@
 
 ## Summary
 
-The main goal of this project was to download street data from openstreetmap.com and clean/transform the data.
+The main goal of this project was to download street data, in xml format, from openstreetmap.com and clean/transform the data.
 
 This included changing the formatting of various street names and directional abbreviations.
 
